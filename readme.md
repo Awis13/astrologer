@@ -21,4 +21,3 @@ The program will prompt you to enter your place of birth, date of birth, and tim
 ## Customization
 
 You can customize the generated text by modifying the prompt and the parameters passed to the OpenAI API. For example, you can adjust the temperature parameter to control the level of creativity in the generated text, or you can change the max_tokens parameter to specify the maximum number of tokens (words) in the generated text.
-# astrologer
