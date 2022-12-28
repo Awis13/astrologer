@@ -8,7 +8,7 @@ To use this program, you will need to install the following dependencies:
 
 - `openai`
 
-You can install these dependencies using `pip`: pip install openai
+You can install these dependencies using `pip: pip install openai`
 
 
 ## Usage
